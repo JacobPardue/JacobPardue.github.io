@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Cyber Security Explained Like You're Five
 
-You can use the [editor on GitHub](https://github.com/JacobPardue/JacobPardue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of this blog is to explain key security concepts, tools, protocols, and anything else you need to be successful in the Cyber Security field in the most simplified way I know how. Each article will highlight a specific tool, technology, or area and while the goal is that any article can be read and understood by a completele beginner with no prior knowledge, in some cases you will need at least a prerequisite knowledge on other topics first. This will all be indicated at the beginning of the article and I'll try to cover each of these areas as well. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Questions? I (probably) have answers.
 
-### Markdown
+If you feel anything is wrong, poorly explained, or you have a question on a topic that isn't covered (yet), send me an email at jpardue@protonmail.com or reach out on twitter at @jacob_pardue. I'm new to twitter and still learning but I'll do my best.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacobPardue/JacobPardue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
