@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Blue Team Walkthroughs
 
-You can use the [editor on GitHub](https://github.com/JacobPardue/JacobPardue.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+In this blog, I aim to work through various Blue Team exercises such as malware traffic analysis and threat hunting CTFs. My goal is not only to walk you through the solutions, but to do so in a way that explains the building blocks of things like threat hunting or forensics in detail. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Questions? I (probably) have answers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you feel anything is wrong, poorly explained, or you have a question on a topic that isn't covered (yet), send me an email at jpardue@protonmail.com or reach out on twitter at @jacob_pardue. I'm new to twitter and still learning but I'll do my best.
 
-```markdown
-Syntax highlighted code block
+### But First!!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacobPardue/JacobPardue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+While I do try to explain things in a way that assumes little to no prior experience, it is definitely helpful to at least have your feet wet with some context. Here are some great workshops that will be sufficient to get you the base knowledge to go through these walkthroughs much more easily.
